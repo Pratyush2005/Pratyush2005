@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Python, HTML/CSS**
 
 - 📫 How to reach me **pratyushpradhan238@gmail.com**
 
