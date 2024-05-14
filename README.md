@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **pratyushpradhan238@gmail.com**
 
-- ⚡ Fun fact **I have a good humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
